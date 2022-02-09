@@ -1,0 +1,56 @@
+
+.downloadButtonsContainer {
+	display: inline-block;
+	margin-top: 42px;
+	filter: $drop-shadow;
+}
+
+@media only screen and (max-width: 992px) {
+
+	.downloadButtonsContainer {
+		text-align: center;
+	}
+
+}
+
+.playStore {
+	height: 45px;
+	margin-right: 24px;
+}
+
+@media only screen and (max-width: 992px) {
+
+	.playStore {
+		margin-right: 24px;
+		margin-bottom: 0px;
+	}
+
+}
+
+@media only screen and (max-width: 528px) {
+
+	.playStore {
+		margin-right: 0px;
+		margin-bottom: 24px;
+	}
+
+}
+
+.appStore {
+	height: 45px;
+}
+
+.video-container{
+  margin-top: 70px;
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+.video-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

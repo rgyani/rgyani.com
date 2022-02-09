@@ -1,0 +1,27 @@
+---
+title:  "Bubbles: Learn a Language"
+gameid: "bubbles"
+image: "img/bubbles.png"
+date:   2022-01-14
+---
+
+Bubbles, helps you achieve your language learning goals, with an efficient approach by mastering the vocabulary, using interesting puzzles.
+
+This is how it works:
+* Once you have learnt the 500 most relevant words in a new language, you will be able to understand close to half the words in a typical text
+* As your vocabulary expands to 1500 words, you will be able to understand upto 70% of all commonly used words in conversations, news and TV Shows.
+* When you reach the 3000 words mark, you will be able to understand 8 out of every 10 words when conversing with a native speaker.
+* Reaching a working vocabulary of over 5000 words will give you an optimal springboard to build fluency fast.
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yky3X8f3DjI" frameborder="0"
+            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<div class="downloadButtonsContainer">
+    <a class="playStoreLink" target="_blank"
+       href="https://play.google.com/store/apps/details?id=com.rGyani.bubbles">
+        <img class="playStore" src="img/ui/playstore.png"></a>
+    <a class="appStoreLink" target="_blank"
+       href="https://apps.apple.com/us/app/bubbles-learn-a-language/id1598011148">
+        <img class="appStore" src="img/ui/appstore.png"></a>
+</div>

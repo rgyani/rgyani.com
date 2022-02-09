@@ -1,0 +1,21 @@
+---
+title:  "DinoLand: Hunt or be Hunted!"
+gameid: "dinoland"
+image: "img/dinoland.png"
+date:   2022-01-11
+---
+
+Dedicated to the classic Jurassic series, put yourself in the movie scenes and face those dinosaurs all over again. No retakes, ofcourse!
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5wWDpOUWN8g" frameborder="0"
+            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<div class="downloadButtonsContainer">
+    <a class="playStoreLink" target="_blank"
+       href="https://play.google.com/store/apps/details?id=com.rGyani.DinoLand2">
+        <img class="playStore" src="img/ui/playstore.png"></a>
+    <a class="appStoreLink" target="_blank"
+       href="https://itunes.apple.com/us/app/dinoland-hunt-or-be-hunted/id1335310792">
+        <img class="appStore" src="img/ui/appstore.png"></a>
+</div>

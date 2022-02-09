@@ -1,0 +1,23 @@
+---
+title:  "LetsBat - World Cup Edition"
+gameid : "letsbat"
+image: "img/letsbat.png"
+date:   2022-01-12
+---
+
+Relive those favourite World Cup memories by putting yourselves in batsmen shoes.
+
+Chase targets and help your team achieve World Cup glory all over again!
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iXCkaA6cVVE" frameborder="0"
+            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<div class="downloadButtonsContainer">
+    <a class="playStoreLink" target="_blank"
+       href="https://play.google.com/store/apps/details?id=com.rgyani.letsbatwc">
+        <img class="playStore" src="img/ui/playstore.png"></a>
+    <a class="appStoreLink" target="_blank"
+       href="https://apps.apple.com/us/app/letsbat-worldcup-edition/id1344491886">
+        <img class="appStore" src="img/ui/appstore.png"></a>
+</div>
