@@ -4,4 +4,4 @@ description: rGyani Games
 keywords: Games, Mobile, Fun, Tennis, Badminton, Cricket, Sports
 author: Ravi Gyani
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://rgyani.com" # the base hostname & protocol for your site
