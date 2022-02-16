@@ -18,9 +18,9 @@ Despite the simple controls, the game is anything but casual! High-tier gameplay
 </div>
 <div class="downloadButtonsContainer">
     <a class="playStoreLink" target="_blank"
-       href="https://play.google.com/store/apps/details?id=com.rGyani.badminton">
+       href="https://play.google.com/store/apps/details?id=com.rGyani.Tennis">
         <img class="playStore" src="img/ui/playstore.png"></a>
     <a class="appStoreLink" target="_blank"
-       href="https://apps.apple.com/us/app/badminton-2d/id1578451339">
+       href="https://apps.apple.com/us/app/toonie-tennis/id1610304081">
         <img class="appStore" src="img/ui/appstore.png"></a>
 </div>
