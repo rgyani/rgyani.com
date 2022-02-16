@@ -5,12 +5,15 @@ image: "img/tennis.png"
 date:   2022-01-16
 ---
 
-Play this timeless Indian outdoor game, employing a wide variety of strokes in the right situations.
+Experience tennis like never before!   
+Take control of your characters, decide if you want to be a baseline player or a volley master.
+Equip your players with the right equipment and match your wits against the best in the world
 
-From powerful jumping smashes to delicate tumbling net returns, long rallies to subtle strokes, Your goal is to deceive your opponent by forcing them to move as much as possible eventually tiring them out and unable to anticipate and reach your return
+From beautiful arenas, to different capabilities, you will always have fun playing this simple but addictive game.  
+Despite the simple controls, the game is anything but casual! High-tier gameplay is deep, engaging and yet hard to master.
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/24xLVa5p2to" frameborder="0"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yyYeOQrJDuc" frameborder="0"
             allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <div class="downloadButtonsContainer">
