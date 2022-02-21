@@ -24,3 +24,19 @@ Despite the simple controls, the game is anything but casual! High-tier gameplay
        href="https://apps.apple.com/us/app/toonie-tennis/id1610304081">
         <img class="appStore" src="img/ui/appstore.png"></a>
 </div>
+
+In the current version, we have the following features
+1. You can choose your player's character, decide if you want to be a baseline player or a serve-volley master, counter puncher or an all-rounder.
+2. You select a venue, based on which, AI will select a player, and you compete against the player in a first to 7 points match.
+3. While in the game, you can use swipes on the mobile screen to control your shots. The goal being, just like a real game, to place the ball out of reach of the player.
+4. Currently, you can use forehand, backhand, volley and smash strokes. All animations are in place and I feel, work beautifully :)
+5. If and when you win a match, you get some rewards, which take time to open (can be sped-up, via video ads and/or gems) and you get character cards, which you can use to upgrade your chosen character(s).
+6. The upgraded characters have faster response times, better shot speed based on their characteristics
+7. There is also a practice mode where you play against the Ball-Machine to fine tune your skills
+
+
+### ToDo List:
+
+1. PvP mode, where you can play online against another person, facebook friends in real-time. 
+2. Tuning and more tuning, on the player characteristics, the shot height while returning, the player movement considering the energy etc/
+3. Smoothing out the camera movement scripts
